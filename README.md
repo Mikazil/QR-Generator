@@ -18,5 +18,5 @@ Made with Svelte, QR generating in [QRCoder](http://qrcoder.ru)
 
 ## ToDo
 - [x] Create site version
-- [x] Create Electron app
+- [x] Create [Electron app](https://github.com/Mikazil/QR-Generator-Electron-App)
 
